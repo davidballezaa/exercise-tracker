@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg bg-light">
       <div className="container-fluid">
         <Link to="/" className="navbar-brand">
-          Navbar
+          Exercises
         </Link>
         <button
           className="navbar-toggler"
